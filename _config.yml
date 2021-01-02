@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Jongha Kim"
-  avatar           : "/assets/images/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Studying Deep Learning"
   location         : "Seoul, South Korea"
   email            :
