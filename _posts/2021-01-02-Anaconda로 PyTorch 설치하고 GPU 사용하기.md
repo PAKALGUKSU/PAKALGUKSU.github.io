@@ -2,6 +2,8 @@
 title: "Anaconda로 PyTorch 설치하고 GPU 사용하기"
 categories:
     - Development
+tags:
+    - Development
 toc: True
 ---
 
