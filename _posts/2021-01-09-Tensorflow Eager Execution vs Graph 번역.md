@@ -1,7 +1,7 @@
 ---
 title: "Tensorflow Eager Execution vs Graph (@tf.function) 번역"
 categories:
-    - Deep Learning
+    - Deep-Learning
     - Tensorflow
 toc: True
 ---
